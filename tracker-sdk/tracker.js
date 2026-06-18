@@ -1,7 +1,6 @@
 (function () {
   const API_URL =
-    "http://localhost:5000/api/events";
-
+    "https://insightflow-analytics.onrender.com/api/events";
   function getSessionId() {
     let sessionId = localStorage.getItem(
       "insightflow_session"
