@@ -19,18 +19,22 @@
   }
 
   function getPageUrl() {
-    const path = window.location.pathname;
+  const path = window.location.pathname;
 
-    if (path.includes("index.html")) {
-      return "/home";
-    }
-
-    if (path.includes("pricing.html")) {
-      return "/pricing";
-    }
-
-    return path;
+  if (
+    path === "/" ||
+    path === "" ||
+    path.includes("index.html")
+  ) {
+    return "/home";
   }
+
+  if (path.includes("pricing.html")) {
+    return "/pricing";
+  }
+
+  return path;
+}
 
   async function sendEvent(eventData) {
     try {
