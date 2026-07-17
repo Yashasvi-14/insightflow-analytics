@@ -5,8 +5,10 @@ A full-stack user analytics platform inspired by modern behavioral analytics too
 ## Live Demo
 
 * Frontend Dashboard: https://insightflow-analytics-two.vercel.app/
+* Interaction Website: https://insightflow-analytics-xmmk.vercel.app/
 * Backend API: https://insightflow-analytics.onrender.com
 * GitHub Repository: https://github.com/Yashasvi-14/insightflow-analytics
+  
 
 ---
 
