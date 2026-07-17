@@ -310,5 +310,3 @@ E-mail: yashasvitekriwal14032004@gmail.com
 LinkedIn: https://www.linkedin.com/in/yashasvi-tekriwal-1a3424280/
 
 ---
-
-Built as part of the Full Stack Engineer Assignment for CausalFunnel.
